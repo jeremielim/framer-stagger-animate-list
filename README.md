@@ -1,2 +1,2 @@
-# framer-stagger-animate-list
-Framer module for stagger animating list items
+# Framer module for animating list items
+
